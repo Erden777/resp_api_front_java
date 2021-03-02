@@ -1,0 +1,15 @@
+.searchbar{
+    background-color: #343A40;  
+}
+
+.searchbar:focus{
+    background-color: rgb(255, 255, 255);
+}
+
+.searchbar:visited{
+    background-color: red;
+}
+
+Form.Control::placeholder {
+    color: red;
+  }
